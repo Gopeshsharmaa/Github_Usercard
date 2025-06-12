@@ -7,6 +7,9 @@
 🛠️ Features ✅ Fetches real-time GitHub user data ✅ Displays avatar, username, full name, bio, repos, followers, location, and company ✅ Responsive and visually appealing UI ✅ Handles invalid usernames with error alerts ✅ Smooth transition animation when card appears
 
 📸 Screenshots 
+
+link : Gopeshsharmaa/Github-UserCard
+
 ![Screenshot 2025-06-12 173811](https://github.com/user-attachments/assets/6fffec66-71b2-4607-8df9-1844a09d611b)
 
 
